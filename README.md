@@ -67,11 +67,11 @@ class WhoAmI:
 - **Curso atual:** Desenvolvimento de Sistemas
 - **Período:** 4º termo
 - **Foco atual:** programação orientada a objetos, desenvolvimento web e mobile (conceitos e práticas)
-- **Formação anterior:** Ensino Médio Técnico em Desenvolvimento de Sistemas
+- **Formação:** Ensino Médio Técnico em Desenvolvimento de Sistemas
 - **Cursos complementares:**
 
-	- Fundamentos de Python — SENAI
-	- Outros cursos: (adicione aqui outros cursos que realizou)
+	- Fundamentos do Python — SENAI
+	
 
 ## Projetos em destaque
 
