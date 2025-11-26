@@ -82,7 +82,7 @@ class WhoAmI:
 
 - **GitHub:** https://github.com/LaizaVitoria
 - **Email:** vitorialaiza605@gmail.com
-- **Telefone:** 81 999772540
+- **WhatsApp:** [![WhatsApp](https://img.shields.io/badge/WhatsApp-%23FFC0CB?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5581999772540)
 
 <!-- RAINBOW LINE BOTTOM -->
 <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
