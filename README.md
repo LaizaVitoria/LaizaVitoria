@@ -80,8 +80,8 @@ class WhoAmI:
 
 ## Contato
 
-- **GitHub:** https://github.com/LaizaVitoria
-- **Email:** vitorialaiza605@gmail.com
+- **GitHub:** [![GitHub](https://img.shields.io/badge/GitHub-%23FFC0CB?style=for-the-badge&logo=github&logoColor=white)](https://github.com/LaizaVitoria)
+- **Email:** [![Email](https://img.shields.io/badge/Email-%23FFC0CB?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vitorialaiza605@gmail.com)
 - **WhatsApp:** [![WhatsApp](https://img.shields.io/badge/WhatsApp-%23FFC0CB?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5581999772540)
 
 <!-- RAINBOW LINE BOTTOM -->
